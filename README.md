@@ -30,7 +30,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=tilek225&show_icons=true&theme=chartreuse-dark" align="left" height="200px" width="650px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilek225&langs_count=8&theme=chartreuse-dark" align="right" height="200px" width="300px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilek225&langs_count=8&theme=chartreuse-dark" align="right" height="200px" width="400px"/>
 
 
 
