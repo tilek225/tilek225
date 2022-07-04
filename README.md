@@ -29,10 +29,8 @@
 <h2 align="center">My GitHub Stats </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilek225&show_icons=true&theme=chartreuse-dark)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilek225&langs_count=8&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tilek225&show_icons=true&theme=chartreuse-dark" align="left" height="300px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilek225&langs_count=8&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tilek225&show_icons=true&theme=chartreuse-dark" align="left" height="100px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilek225&langs_count=8&theme=chartreuse-dark" align="right" height="100px"/>
 
 
 
